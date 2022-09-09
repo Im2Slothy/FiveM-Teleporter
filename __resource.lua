@@ -4,5 +4,5 @@ description "Easy to use teleport by Slothy"
 
 client_script {
 	'config.lua',
-	'client/main.lua'
+	'client/easytp.lua'
 }
